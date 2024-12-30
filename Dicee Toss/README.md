@@ -34,7 +34,7 @@ This project is a fun and interactive webpage that simulates a dice roll for two
 
 ## Key Files
 
-- **`index.html`**:
+- **`dicee.html`**:
   - Structure of the webpage, including the dice images and header for displaying results.
 
 - **`style.css`**:
@@ -51,7 +51,7 @@ This project is a fun and interactive webpage that simulates a dice roll for two
 ## Usage Instructions
 
 1. Clone or download the project files.
-2. Open `index.html` in a web browser.
+2. Open `dicee.html` in a web browser.
 3. Refresh the page to simulate a new dice roll for both players.
 4. Check the displayed dice images and the result in the header.
 
