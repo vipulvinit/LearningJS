@@ -40,7 +40,7 @@ This project is a fun and interactive webpage that simulates a dice roll for two
 - **`style.css`**:
   - (Optional) Styling for the webpage.
 
-- **`script.js`**:
+- **`index.js`**:
   - JavaScript code that implements the dice roll logic, updates the dice images, and declares the winner.
 
 - **`images/`**:
