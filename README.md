@@ -10,5 +10,5 @@
 
 ## [2. Drum Kit Webpage 🥁🎶](./Drum%20Kit)
 
-## 3.Simon Game Webpage
+## [3. Simon Game Webpage](./Simon%20Game)
 
